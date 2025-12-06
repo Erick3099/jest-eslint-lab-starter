@@ -1,4 +1,3 @@
-
 // Utility Functions
 
 /**
@@ -31,3 +30,4 @@ function logAction(action, username) {
 }
 
 module.exports = { capitalizeWords, filterActiveUsers, logAction };
+
